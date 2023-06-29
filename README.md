@@ -33,6 +33,12 @@ NEAR_TEST_RPC_URL=https://aurora-testnet.infura.io/v3/a603fe2e1857496bab77eb6807
 ```
 
 
+# Initial Results
+
+![Screenshot 2023-06-29 at 6 53 44 pm](https://github.com/DeveloperAlly/PerformanceTesting/assets/12529822/17eaa953-20f8-4bec-9646-2f32d2fffa9f)
+
+
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
