@@ -1,0 +1,48 @@
+{
+  "network": "bsc_testnet",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 150.7,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 151
+    },
+    {
+      "run": 2,
+      "executionTime": 144
+    },
+    {
+      "run": 3,
+      "executionTime": 151
+    },
+    {
+      "run": 4,
+      "executionTime": 153
+    },
+    {
+      "run": 5,
+      "executionTime": 160
+    },
+    {
+      "run": 6,
+      "executionTime": 148
+    },
+    {
+      "run": 7,
+      "executionTime": 150
+    },
+    {
+      "run": 8,
+      "executionTime": 151
+    },
+    {
+      "run": 9,
+      "executionTime": 149
+    },
+    {
+      "run": 10,
+      "executionTime": 150
+    }
+  ]
+}

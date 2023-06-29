@@ -1,0 +1,48 @@
+{
+  "network": "klaytn_testnet",
+  "address": "0xdC7612fa94F098F1d7BB40E0f4F4db8fF0bC8820",
+  "iterations": 10,
+  "averageTime": 191.5,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 214
+    },
+    {
+      "run": 2,
+      "executionTime": 172
+    },
+    {
+      "run": 3,
+      "executionTime": 214
+    },
+    {
+      "run": 4,
+      "executionTime": 171
+    },
+    {
+      "run": 5,
+      "executionTime": 213
+    },
+    {
+      "run": 6,
+      "executionTime": 169
+    },
+    {
+      "run": 7,
+      "executionTime": 205
+    },
+    {
+      "run": 8,
+      "executionTime": 170
+    },
+    {
+      "run": 9,
+      "executionTime": 204
+    },
+    {
+      "run": 10,
+      "executionTime": 183
+    }
+  ]
+}

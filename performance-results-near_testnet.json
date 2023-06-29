@@ -1,0 +1,48 @@
+{
+  "network": "near_testnet",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 252.4,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 287
+    },
+    {
+      "run": 2,
+      "executionTime": 259
+    },
+    {
+      "run": 3,
+      "executionTime": 267
+    },
+    {
+      "run": 4,
+      "executionTime": 236
+    },
+    {
+      "run": 5,
+      "executionTime": 262
+    },
+    {
+      "run": 6,
+      "executionTime": 260
+    },
+    {
+      "run": 7,
+      "executionTime": 240
+    },
+    {
+      "run": 8,
+      "executionTime": 236
+    },
+    {
+      "run": 9,
+      "executionTime": 240
+    },
+    {
+      "run": 10,
+      "executionTime": 237
+    }
+  ]
+}

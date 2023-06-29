@@ -1,0 +1,48 @@
+{
+  "network": "arbitrum_test",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 266.1,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 274
+    },
+    {
+      "run": 2,
+      "executionTime": 274
+    },
+    {
+      "run": 3,
+      "executionTime": 267
+    },
+    {
+      "run": 4,
+      "executionTime": 267
+    },
+    {
+      "run": 5,
+      "executionTime": 261
+    },
+    {
+      "run": 6,
+      "executionTime": 252
+    },
+    {
+      "run": 7,
+      "executionTime": 274
+    },
+    {
+      "run": 8,
+      "executionTime": 262
+    },
+    {
+      "run": 9,
+      "executionTime": 267
+    },
+    {
+      "run": 10,
+      "executionTime": 263
+    }
+  ]
+}

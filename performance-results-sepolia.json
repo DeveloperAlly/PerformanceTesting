@@ -1,0 +1,48 @@
+{
+  "network": "sepolia",
+  "address": "0x0777809607D63Fc2cF2E853E513f901dd994C0eF",
+  "iterations": 10,
+  "averageTime": 266.6,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 303
+    },
+    {
+      "run": 2,
+      "executionTime": 264
+    },
+    {
+      "run": 3,
+      "executionTime": 259
+    },
+    {
+      "run": 4,
+      "executionTime": 260
+    },
+    {
+      "run": 5,
+      "executionTime": 258
+    },
+    {
+      "run": 6,
+      "executionTime": 264
+    },
+    {
+      "run": 7,
+      "executionTime": 265
+    },
+    {
+      "run": 8,
+      "executionTime": 263
+    },
+    {
+      "run": 9,
+      "executionTime": 264
+    },
+    {
+      "run": 10,
+      "executionTime": 266
+    }
+  ]
+}

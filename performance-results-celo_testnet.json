@@ -1,0 +1,48 @@
+{
+  "network": "celo_testnet",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 196.3,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 175
+    },
+    {
+      "run": 2,
+      "executionTime": 157
+    },
+    {
+      "run": 3,
+      "executionTime": 159
+    },
+    {
+      "run": 4,
+      "executionTime": 180
+    },
+    {
+      "run": 5,
+      "executionTime": 264
+    },
+    {
+      "run": 6,
+      "executionTime": 364
+    },
+    {
+      "run": 7,
+      "executionTime": 168
+    },
+    {
+      "run": 8,
+      "executionTime": 159
+    },
+    {
+      "run": 9,
+      "executionTime": 160
+    },
+    {
+      "run": 10,
+      "executionTime": 177
+    }
+  ]
+}

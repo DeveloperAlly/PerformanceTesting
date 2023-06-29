@@ -1,0 +1,48 @@
+{
+  "network": "fantom_testnet",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 381.1,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 905
+    },
+    {
+      "run": 2,
+      "executionTime": 338
+    },
+    {
+      "run": 3,
+      "executionTime": 301
+    },
+    {
+      "run": 4,
+      "executionTime": 344
+    },
+    {
+      "run": 5,
+      "executionTime": 300
+    },
+    {
+      "run": 6,
+      "executionTime": 330
+    },
+    {
+      "run": 7,
+      "executionTime": 332
+    },
+    {
+      "run": 8,
+      "executionTime": 331
+    },
+    {
+      "run": 9,
+      "executionTime": 306
+    },
+    {
+      "run": 10,
+      "executionTime": 324
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "network": "avax_testnet",
+  "address": "0x6a46ddE41c3f572A07527149552b4B1875B0361B",
+  "iterations": 10,
+  "averageTime": 54,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 271
+    },
+    {
+      "run": 2,
+      "executionTime": 30
+    },
+    {
+      "run": 3,
+      "executionTime": 28
+    },
+    {
+      "run": 4,
+      "executionTime": 25
+    },
+    {
+      "run": 5,
+      "executionTime": 27
+    },
+    {
+      "run": 6,
+      "executionTime": 45
+    },
+    {
+      "run": 7,
+      "executionTime": 26
+    },
+    {
+      "run": 8,
+      "executionTime": 26
+    },
+    {
+      "run": 9,
+      "executionTime": 37
+    },
+    {
+      "run": 10,
+      "executionTime": 25
+    }
+  ]
+}

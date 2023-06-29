@@ -1,0 +1,48 @@
+{
+  "network": "polygon_mumbai",
+  "address": "0x1a8f96320352401B8F5141d94e98082f975F0b34",
+  "iterations": 10,
+  "averageTime": 283.7,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 337
+    },
+    {
+      "run": 2,
+      "executionTime": 265
+    },
+    {
+      "run": 3,
+      "executionTime": 272
+    },
+    {
+      "run": 4,
+      "executionTime": 269
+    },
+    {
+      "run": 5,
+      "executionTime": 258
+    },
+    {
+      "run": 6,
+      "executionTime": 264
+    },
+    {
+      "run": 7,
+      "executionTime": 262
+    },
+    {
+      "run": 8,
+      "executionTime": 271
+    },
+    {
+      "run": 9,
+      "executionTime": 329
+    },
+    {
+      "run": 10,
+      "executionTime": 310
+    }
+  ]
+}
