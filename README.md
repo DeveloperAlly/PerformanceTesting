@@ -1,5 +1,11 @@
 # Basic Performance Testing of EVM-Compatible Networks 
 
+This code simply times how long a network takes to make a function call to a contract and return the results. ```PerformanceTest.sol```
+
+The function call is made 10 times and the average time is taken from there and results written to a file. ```performance-results-$NETWORK_NAME.json```
+
+
+
 Just run the following code for the network defined in hardhat.config
 
 ```npx hardhat run scripts/performanceTest.js --network $NETWORK_NAME```
