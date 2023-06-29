@@ -35,6 +35,25 @@ NEAR_TEST_RPC_URL=https://aurora-testnet.infura.io/v3/a603fe2e1857496bab77eb6807
 
 # Initial Results
 
+| Chain | Avg Time for 10 repetitions (ms) | Gas Price; 10 reps | Consensus Mechanism | Block Time (+ ref) | Transaction Throughput (tps + ref) |
+| --- | --- | --- | --- | --- | --- |
+| IPC |  |  |  |  |  |
+| FVM CalibrationNet |  |  |  |  |  |
+| Eth Sepolia | 266.6 |  |  |  |  |
+| Polygon Mumbai | 283.7 |  |  |  |  |
+| Polygon Validium? |  |  |  |  |  |
+| BSC Testnet | 150.7 |  |  |  |  |
+| Arbitrum | 266.1 |  |  |  |  |
+| Optimism | 273.2 |  |  |  |  |
+| Mantle Testnet |  |  |  |  |  |
+| NEAR Aurora Testnet | 252.4 |  |  |  |  |
+| Klaytn Testnet | 191.5 |  |  |  |  |
+| Avalanche Testnet | 54 |  |  |  |  |
+| Celo Testnet | 196.3 |  |  |  |  |
+| Fantom Testnet | 381.1 |  |  |  |  |
+| ZKsync? |  |  |  |  |  |
+| Velas EVM? (fork of solana) |  |  |  |  |  |
+
 ![Screenshot 2023-06-29 at 6 53 44 pm](https://github.com/DeveloperAlly/PerformanceTesting/assets/12529822/17eaa953-20f8-4bec-9646-2f32d2fffa9f)
 
 
