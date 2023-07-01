@@ -1,0 +1,59 @@
+{
+  "network": "mantle_testnet",
+  "address": "0x18C43F717a710335Bd7fe1b3AF97F2aC00A12098",
+  "iterations": 10,
+  "averageTime": 4123.8,
+  "averageGas": 5.012830480304803e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 4871,
+      "gasUsed": "50128"
+    },
+    {
+      "run": 2,
+      "executionTime": 4343,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 3,
+      "executionTime": 4451,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 4,
+      "executionTime": 3374,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 5,
+      "executionTime": 4485,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 6,
+      "executionTime": 3761,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 7,
+      "executionTime": 4193,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 8,
+      "executionTime": 4055,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 9,
+      "executionTime": 3858,
+      "gasUsed": "30480"
+    },
+    {
+      "run": 10,
+      "executionTime": 3847,
+      "gasUsed": "30480"
+    }
+  ]
+}

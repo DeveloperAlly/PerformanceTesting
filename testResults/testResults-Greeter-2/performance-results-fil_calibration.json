@@ -1,0 +1,59 @@
+{
+  "network": "fil_calibration",
+  "address": "0x352fF26e6dEa8c30e2bB77DF6188644851bA2028",
+  "iterations": 10,
+  "averageTime": 60176.9,
+  "averageGas": 5.000000500000051e+68,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 64152,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 2,
+      "executionTime": 56289,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 3,
+      "executionTime": 61190,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 4,
+      "executionTime": 61314,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 5,
+      "executionTime": 58286,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 6,
+      "executionTime": 59647,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 7,
+      "executionTime": 59080,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 8,
+      "executionTime": 64379,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 9,
+      "executionTime": 60717,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 10,
+      "executionTime": 56715,
+      "gasUsed": "5000000"
+    }
+  ]
+}
