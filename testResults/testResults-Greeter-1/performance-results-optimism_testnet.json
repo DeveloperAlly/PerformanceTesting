@@ -1,0 +1,59 @@
+{
+  "network": "optimism_testnet",
+  "address": "0x64a5E23b2E33ed43D75145337bcB8b5166C51462",
+  "iterations": 10,
+  "averageTime": 4106.7,
+  "averageGas": 5.015230504305043e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 4407,
+      "gasUsed": "50152"
+    },
+    {
+      "run": 2,
+      "executionTime": 4304,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 3,
+      "executionTime": 3233,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 4,
+      "executionTime": 4411,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 5,
+      "executionTime": 4368,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 6,
+      "executionTime": 4433,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 7,
+      "executionTime": 2934,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 8,
+      "executionTime": 4369,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 9,
+      "executionTime": 4200,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 10,
+      "executionTime": 4408,
+      "gasUsed": "30504"
+    }
+  ]
+}

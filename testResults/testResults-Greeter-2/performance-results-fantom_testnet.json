@@ -1,58 +1,58 @@
 {
   "network": "fantom_testnet",
-  "address": "0x80a37d7DDbc4B47ad4635C3e33EA99754b351C09",
+  "address": "0xe8E5476A077F57c903Bcc75216BEa50f81ce2197",
   "iterations": 10,
-  "averageTime": 3807,
+  "averageTime": 3883,
   "averageGas": 5.012830695306952e+48,
   "results": [
     {
       "run": 1,
-      "executionTime": 4580,
+      "executionTime": 4536,
       "gasUsed": "50128"
     },
     {
       "run": 2,
-      "executionTime": 3810,
+      "executionTime": 3813,
       "gasUsed": "30695"
     },
     {
       "run": 3,
-      "executionTime": 3093,
+      "executionTime": 3928,
       "gasUsed": "30695"
     },
     {
       "run": 4,
-      "executionTime": 4563,
+      "executionTime": 3798,
       "gasUsed": "30695"
     },
     {
       "run": 5,
-      "executionTime": 2974,
+      "executionTime": 3721,
       "gasUsed": "30695"
     },
     {
       "run": 6,
-      "executionTime": 4524,
+      "executionTime": 3885,
       "gasUsed": "30695"
     },
     {
       "run": 7,
-      "executionTime": 3154,
+      "executionTime": 3725,
       "gasUsed": "30695"
     },
     {
       "run": 8,
-      "executionTime": 4368,
+      "executionTime": 3785,
       "gasUsed": "30695"
     },
     {
       "run": 9,
-      "executionTime": 3802,
+      "executionTime": 3892,
       "gasUsed": "30695"
     },
     {
       "run": 10,
-      "executionTime": 3202,
+      "executionTime": 3747,
       "gasUsed": "30695"
     }
   ]

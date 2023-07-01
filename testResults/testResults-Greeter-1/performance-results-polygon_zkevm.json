@@ -1,0 +1,59 @@
+{
+  "network": "polygon_zkevm",
+  "address": "0xdC7612fa94F098F1d7BB40E0f4F4db8fF0bC8820",
+  "iterations": 10,
+  "averageTime": 11274.5,
+  "averageGas": 5.0116304683046824e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 9396,
+      "gasUsed": "50116"
+    },
+    {
+      "run": 2,
+      "executionTime": 11500,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 3,
+      "executionTime": 11550,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 4,
+      "executionTime": 12901,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 5,
+      "executionTime": 10020,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 6,
+      "executionTime": 11766,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 7,
+      "executionTime": 10983,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 8,
+      "executionTime": 12586,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 9,
+      "executionTime": 11573,
+      "gasUsed": "30468"
+    },
+    {
+      "run": 10,
+      "executionTime": 10470,
+      "gasUsed": "30468"
+    }
+  ]
+}

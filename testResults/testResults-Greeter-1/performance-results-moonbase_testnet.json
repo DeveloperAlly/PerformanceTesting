@@ -1,0 +1,59 @@
+{
+  "network": "moonbase_testnet",
+  "address": "0xcEC047341011e35654880D2A65d96b8f2439923b",
+  "iterations": 10,
+  "averageTime": 28185.8,
+  "averageGas": 5.015230504305043e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 23928,
+      "gasUsed": "50152"
+    },
+    {
+      "run": 2,
+      "executionTime": 24445,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 3,
+      "executionTime": 23473,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 4,
+      "executionTime": 30468,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 5,
+      "executionTime": 23931,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 6,
+      "executionTime": 24114,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 7,
+      "executionTime": 54020,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 8,
+      "executionTime": 23464,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 9,
+      "executionTime": 24541,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 10,
+      "executionTime": 29474,
+      "gasUsed": "30504"
+    }
+  ]
+}

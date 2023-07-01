@@ -1,58 +1,58 @@
 {
-  "network": "bsc_testnet",
-  "address": "0x77C9Ce84518c20832132eA5d2d135ccb1406Bd0b",
+  "network": "eth_sepolia",
+  "address": "0x5F11B8B1A024c3182b18cFB11c92105c11614AF9",
   "iterations": 10,
-  "averageTime": 2996.8,
+  "averageTime": 15550,
   "averageGas": 5.0092304443044425e+48,
   "results": [
     {
       "run": 1,
-      "executionTime": 3027,
+      "executionTime": 10502,
       "gasUsed": "50092"
     },
     {
       "run": 2,
-      "executionTime": 3032,
+      "executionTime": 12321,
       "gasUsed": "30444"
     },
     {
       "run": 3,
-      "executionTime": 3016,
+      "executionTime": 23896,
       "gasUsed": "30444"
     },
     {
       "run": 4,
-      "executionTime": 3010,
+      "executionTime": 11776,
       "gasUsed": "30444"
     },
     {
       "run": 5,
-      "executionTime": 3023,
+      "executionTime": 24363,
       "gasUsed": "30444"
     },
     {
       "run": 6,
-      "executionTime": 3041,
+      "executionTime": 12947,
       "gasUsed": "30444"
     },
     {
       "run": 7,
-      "executionTime": 3106,
+      "executionTime": 10333,
       "gasUsed": "30444"
     },
     {
       "run": 8,
-      "executionTime": 3118,
+      "executionTime": 12221,
       "gasUsed": "30444"
     },
     {
       "run": 9,
-      "executionTime": 2581,
+      "executionTime": 12981,
       "gasUsed": "30444"
     },
     {
       "run": 10,
-      "executionTime": 3014,
+      "executionTime": 24160,
       "gasUsed": "30444"
     }
   ]

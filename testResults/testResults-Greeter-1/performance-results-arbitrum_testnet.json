@@ -1,0 +1,59 @@
+{
+  "network": "arbitrum_testnet",
+  "address": "0xdC7612fa94F098F1d7BB40E0f4F4db8fF0bC8820",
+  "iterations": 10,
+  "averageTime": 2706,
+  "averageGas": 5.015230504305043e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 2659,
+      "gasUsed": "50152"
+    },
+    {
+      "run": 2,
+      "executionTime": 2630,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 3,
+      "executionTime": 2622,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 4,
+      "executionTime": 3226,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 5,
+      "executionTime": 2475,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 6,
+      "executionTime": 2531,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 7,
+      "executionTime": 2654,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 8,
+      "executionTime": 2474,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 9,
+      "executionTime": 2528,
+      "gasUsed": "30504"
+    },
+    {
+      "run": 10,
+      "executionTime": 3261,
+      "gasUsed": "30504"
+    }
+  ]
+}

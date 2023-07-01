@@ -1,0 +1,59 @@
+{
+  "network": "near_aurora_testnet",
+  "address": "0xe8E5476A077F57c903Bcc75216BEa50f81ce2197",
+  "iterations": 10,
+  "averageTime": 9542.8,
+  "averageGas": 5.018830540305403e+48,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 9768,
+      "gasUsed": "50188"
+    },
+    {
+      "run": 2,
+      "executionTime": 9526,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 3,
+      "executionTime": 9659,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 4,
+      "executionTime": 9910,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 5,
+      "executionTime": 10233,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 6,
+      "executionTime": 9206,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 7,
+      "executionTime": 9607,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 8,
+      "executionTime": 9465,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 9,
+      "executionTime": 8973,
+      "gasUsed": "30540"
+    },
+    {
+      "run": 10,
+      "executionTime": 9081,
+      "gasUsed": "30540"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ require('dotenv').config();
 const urls = {
   ipc: process.env.IPC_RPC_URL,
   calibration: process.env.CALIBRATION_RPC_URL,
-  sepolia: process.env.ETH_SEPOLIA_RPC_URL,
+  eth_sepolia: process.env.ETH_SEPOLIA_RPC_URL,
   optimism_test: process.env.OPTIMISM_TEST_RPC_URL,
   arbitrum_test: process.env.ARBITRUM_TEST_RPC_URL,
   mantle_test: process.env.MANTLE_TEST_RPC_URL,
@@ -16,6 +16,8 @@ const urls = {
   celo_testnet: process.env.CELO_TEST_RPC_URL,
   fantom_testnet: process.env.FANTOM_TEST_RPC_URL,
   near_testnet: process.env.NEAR_TEST_RPC_URL,
+  moonbase_testnet: process.env.MOONBASE_TEST_RPC_URL,
+  metis_testnet: process.env.METIS_TEST_RPC_URL,
 };
 
 const walletPrivateKey = process.env.WALLET_PRIVATE_KEY;
@@ -27,15 +29,15 @@ if (!walletPrivateKey) {
 module.exports = {
   solidity: '0.8.18',
   networks: {
-    sepolia: {
-      url: urls['sepolia'],
+    eth_sepolia: {
+      url: urls['eth_sepolia'],
       accounts: [walletPrivateKey],
     },
     // ipc: {
     //   url: urls['ipc'],
     //   accounts: [walletPrivateKey],
     // },
-    calibration: {
+    fil_calibration: {
       url: urls['calibration'],
       accounts: [walletPrivateKey],
     },
@@ -79,8 +81,16 @@ module.exports = {
       url: urls['fantom_testnet'],
       accounts: [walletPrivateKey],
     },
-    near_testnet: {
+    near_aurora_testnet: {
       url: urls['near_testnet'],
+      accounts: [walletPrivateKey],
+    },
+    moonbase_testnet: {
+      url: urls['moonbase_testnet'],
+      accounts: [walletPrivateKey],
+    },
+    metis_testnet: {
+      url: urls['metis_testnet'],
       accounts: [walletPrivateKey],
     },
   },

@@ -1,58 +1,58 @@
 {
   "network": "avax_testnet",
-  "address": "0xcEC3bB60dbA19422560B72E5cAcD6DfF1E62aCBe",
+  "address": "0x5F11B8B1A024c3182b18cFB11c92105c11614AF9",
   "iterations": 10,
-  "averageTime": 7577.4,
+  "averageTime": 8080.4,
   "averageGas": 5.010430456304563e+48,
   "results": [
     {
       "run": 1,
-      "executionTime": 9591,
+      "executionTime": 6069,
       "gasUsed": "50104"
     },
     {
       "run": 2,
-      "executionTime": 5806,
+      "executionTime": 9105,
       "gasUsed": "30456"
     },
     {
       "run": 3,
-      "executionTime": 6173,
+      "executionTime": 5948,
       "gasUsed": "30456"
     },
     {
       "run": 4,
-      "executionTime": 8908,
+      "executionTime": 6011,
       "gasUsed": "30456"
     },
     {
       "run": 5,
-      "executionTime": 9115,
+      "executionTime": 6078,
       "gasUsed": "30456"
     },
     {
       "run": 6,
-      "executionTime": 8939,
+      "executionTime": 9313,
       "gasUsed": "30456"
     },
     {
       "run": 7,
-      "executionTime": 5953,
+      "executionTime": 8566,
       "gasUsed": "30456"
     },
     {
       "run": 8,
-      "executionTime": 5816,
+      "executionTime": 9137,
       "gasUsed": "30456"
     },
     {
       "run": 9,
-      "executionTime": 6432,
+      "executionTime": 8600,
       "gasUsed": "30456"
     },
     {
       "run": 10,
-      "executionTime": 9041,
+      "executionTime": 11977,
       "gasUsed": "30456"
     }
   ]

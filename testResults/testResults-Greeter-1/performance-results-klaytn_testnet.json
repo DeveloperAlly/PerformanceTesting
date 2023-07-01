@@ -1,58 +1,58 @@
 {
   "network": "klaytn_testnet",
-  "address": "0xf7F04307f1061Ef2b87A3E6e9Dc9Dd09041259Ac",
+  "address": "0x64a5E23b2E33ed43D75145337bcB8b5166C51462",
   "iterations": 10,
-  "averageTime": 3601.8,
+  "averageTime": 3425.3,
   "averageGas": 5.948839840398405e+48,
   "results": [
     {
       "run": 1,
-      "executionTime": 4492,
+      "executionTime": 2932,
       "gasUsed": "59488"
     },
     {
       "run": 2,
-      "executionTime": 3881,
+      "executionTime": 3229,
       "gasUsed": "39840"
     },
     {
       "run": 3,
-      "executionTime": 3060,
+      "executionTime": 4220,
       "gasUsed": "39840"
     },
     {
       "run": 4,
-      "executionTime": 3317,
+      "executionTime": 3315,
       "gasUsed": "39840"
     },
     {
       "run": 5,
-      "executionTime": 3650,
+      "executionTime": 3573,
       "gasUsed": "39840"
     },
     {
       "run": 6,
-      "executionTime": 3059,
+      "executionTime": 2739,
       "gasUsed": "39840"
     },
     {
       "run": 7,
-      "executionTime": 3386,
+      "executionTime": 3263,
       "gasUsed": "39840"
     },
     {
       "run": 8,
-      "executionTime": 3576,
+      "executionTime": 3034,
       "gasUsed": "39840"
     },
     {
       "run": 9,
-      "executionTime": 3537,
+      "executionTime": 2718,
       "gasUsed": "39840"
     },
     {
       "run": 10,
-      "executionTime": 4060,
+      "executionTime": 5230,
       "gasUsed": "39840"
     }
   ]

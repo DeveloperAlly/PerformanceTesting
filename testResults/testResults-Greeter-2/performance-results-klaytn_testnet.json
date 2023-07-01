@@ -1,58 +1,58 @@
 {
   "network": "klaytn_testnet",
-  "address": "0xf7F04307f1061Ef2b87A3E6e9Dc9Dd09041259Ac",
+  "address": "0x75B01cAeFF294f10d21ff3429C683230e3d8C9B6",
   "iterations": 10,
-  "averageTime": 3601.8,
+  "averageTime": 3872,
   "averageGas": 5.948839840398405e+48,
   "results": [
     {
       "run": 1,
-      "executionTime": 4492,
+      "executionTime": 4156,
       "gasUsed": "59488"
     },
     {
       "run": 2,
-      "executionTime": 3881,
+      "executionTime": 4162,
       "gasUsed": "39840"
     },
     {
       "run": 3,
-      "executionTime": 3060,
+      "executionTime": 3392,
       "gasUsed": "39840"
     },
     {
       "run": 4,
-      "executionTime": 3317,
+      "executionTime": 2422,
       "gasUsed": "39840"
     },
     {
       "run": 5,
-      "executionTime": 3650,
+      "executionTime": 7978,
       "gasUsed": "39840"
     },
     {
       "run": 6,
-      "executionTime": 3059,
+      "executionTime": 3393,
       "gasUsed": "39840"
     },
     {
       "run": 7,
-      "executionTime": 3386,
+      "executionTime": 2946,
       "gasUsed": "39840"
     },
     {
       "run": 8,
-      "executionTime": 3576,
+      "executionTime": 2887,
       "gasUsed": "39840"
     },
     {
       "run": 9,
-      "executionTime": 3537,
+      "executionTime": 2922,
       "gasUsed": "39840"
     },
     {
       "run": 10,
-      "executionTime": 4060,
+      "executionTime": 4462,
       "gasUsed": "39840"
     }
   ]
