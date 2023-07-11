@@ -1,0 +1,59 @@
+{
+  "network": "ipc",
+  "address": "0xDe1A82Cb14499398723fbCEca7211e3268D1af9b",
+  "iterations": 10,
+  "averageTime": 12161,
+  "averageGas": 5.000000500000051e+68,
+  "results": [
+    {
+      "run": 1,
+      "executionTime": 12460,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 2,
+      "executionTime": 12369,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 3,
+      "executionTime": 11913,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 4,
+      "executionTime": 11893,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 5,
+      "executionTime": 12429,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 6,
+      "executionTime": 11918,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 7,
+      "executionTime": 12433,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 8,
+      "executionTime": 11879,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 9,
+      "executionTime": 12404,
+      "gasUsed": "5000000"
+    },
+    {
+      "run": 10,
+      "executionTime": 11912,
+      "gasUsed": "5000000"
+    }
+  ]
+}

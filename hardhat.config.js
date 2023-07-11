@@ -18,6 +18,7 @@ const urls = {
   near_testnet: process.env.NEAR_TEST_RPC_URL,
   moonbase_testnet: process.env.MOONBASE_TEST_RPC_URL,
   metis_testnet: process.env.METIS_TEST_RPC_URL,
+  tron_testnet: process.env.TRON_TEST_RPC_URL,
 };
 
 const walletPrivateKey = process.env.WALLET_PRIVATE_KEY;
@@ -33,10 +34,10 @@ module.exports = {
       url: urls['eth_sepolia'],
       accounts: [walletPrivateKey],
     },
-    // ipc: {
-    //   url: urls['ipc'],
-    //   accounts: [walletPrivateKey],
-    // },
+    ipc: {
+      url: urls['ipc'],
+      accounts: [walletPrivateKey],
+    },
     fil_calibration: {
       url: urls['calibration'],
       accounts: [walletPrivateKey],
@@ -91,6 +92,10 @@ module.exports = {
     },
     metis_testnet: {
       url: urls['metis_testnet'],
+      accounts: [walletPrivateKey],
+    },
+    tron_testnet: {
+      url: urls['tron_testnet'],
       accounts: [walletPrivateKey],
     },
   },
