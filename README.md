@@ -5,6 +5,8 @@ This code simply times how long a network takes to make a function call to a con
 The function call is made 10 times and the average time is taken from there and results written to a file. ```performance-results-$NETWORK_NAME.json```
 
 
+Full write up: https://blog.lilypadnetwork.org/lilypad-project-report-july-3 
+
 
 Just run the following code for the network defined in hardhat.config
 
@@ -15,6 +17,7 @@ Network RPC's (throw this in a .env file with your private key)
 
 ```
 CALIBRATION_RPC_URL=https://api.calibration.node.glif.io/rpc/v0
+IPC_RPC_URL=https://api.spacenet.node.glif.io/rpc/v1
 ETH_SEPOLIA_RPC_URL=https://eth-sepolia.g.alchemy.com/v2/TX-9thgU9y4jl469VwB1kF6nskgd1qwr
 OPTIMISM_TEST_RPC_URL=https://opt-goerli.g.alchemy.com/v2/8HgWHFikFlCVr6ALrwJVHByIB_9k9XNl
 ARBITRUM_TEST_RPC_URL=https://arb-goerli.g.alchemy.com/v2/7-8pJRrHkYPa8whOiKYKY2LVzuUxaUq2
@@ -35,27 +38,9 @@ NEAR_TEST_RPC_URL=https://aurora-testnet.infura.io/v3/a603fe2e1857496bab77eb6807
 
 # Initial Results
 
-| Chain | Avg Time for 10 repetitions (ms) | Gas Price; 10 reps | Consensus Mechanism | Block Time (+ ref) | Transaction Throughput (tps + ref) |
-| --- | --- | --- | --- | --- | --- |
-| IPC |  |  |  |  |  |
-| FVM CalibrationNet |  |  |  |  |  |
-| Eth Sepolia | 266.6 |  |  |  |  |
-| Polygon Mumbai | 283.7 |  |  |  |  |
-| Polygon Validium? |  |  |  |  |  |
-| BSC Testnet | 150.7 |  |  |  |  |
-| Arbitrum | 266.1 |  |  |  |  |
-| Optimism | 273.2 |  |  |  |  |
-| Mantle Testnet |  |  |  |  |  |
-| NEAR Aurora Testnet | 252.4 |  |  |  |  |
-| Klaytn Testnet | 191.5 |  |  |  |  |
-| Avalanche Testnet | 54 |  |  |  |  |
-| Celo Testnet | 196.3 |  |  |  |  |
-| Fantom Testnet | 381.1 |  |  |  |  |
-| ZKsync? |  |  |  |  |  |
-| Velas EVM? (fork of solana) |  |  |  |  |  |
+![image](https://github.com/DeveloperAlly/PerformanceTesting/assets/12529822/16652583-fa0d-4abb-bed3-3e24704e4554)
 
-![Screenshot 2023-06-29 at 6 53 44 pm](https://github.com/DeveloperAlly/PerformanceTesting/assets/12529822/17eaa953-20f8-4bec-9646-2f32d2fffa9f)
-
+(check the testResults folder for full outputs)
 
 
 # Sample Hardhat Project
